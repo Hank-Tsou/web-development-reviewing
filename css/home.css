@@ -1,0 +1,11 @@
+body{
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+.top-bar{
+  background-color: #1fab89;
+  height: 80px;
+  width: 100%;
+  font-size: 3rem;
+}
